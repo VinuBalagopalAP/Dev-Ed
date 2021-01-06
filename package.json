@@ -1,0 +1,22 @@
+{
+  "name": "dev-ed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "vinu",
+  "license": "ISC",
+  "description": "testing",
+  "repository": {
+    "type": "git",
+    "url": "Test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
